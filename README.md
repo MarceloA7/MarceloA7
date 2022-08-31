@@ -1,7 +1,7 @@
 ## Opa! eu sou o **Marcelo**. 👍
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloA7&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloA7&show_icons=true&theme=highcontrast)
 
 ## **Tecnologias** que uso no meu dia a dia. 📌
 <br/>
@@ -11,4 +11,4 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
+<br/>
