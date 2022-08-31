@@ -1,7 +1,7 @@
 ## Opa! eu sou o **Marcelo**. 👍
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloA7&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloA7&show_icons=true&theme=merko)
 
 ## **Tecnologias** que uso no meu dia a dia. 📌
 <br/>
