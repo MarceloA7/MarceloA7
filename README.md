@@ -17,7 +17,5 @@
 ![REACT](https://shields.io/badge/React-3178C6?style=for-the-badge&logo=React&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
+![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 <br/>
