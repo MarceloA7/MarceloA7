@@ -15,4 +15,5 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black)
 ![REACT](https://shields.io/badge/React-3178C6?style=for-the-badge&logo=React&logoColor=white)
+![NODEJS](https://shields.io/badge/React-3178C6?style=for-the-badge&logo=React&logoColor=white)
 <br/>
