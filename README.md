@@ -17,5 +17,6 @@
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
