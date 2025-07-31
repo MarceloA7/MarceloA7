@@ -1,7 +1,7 @@
 <h1 align="center">Marcelo A. 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Android e Backend com Kotlin, criando soluções modernas e escaláveis.
+  Desenvolvedor Full-Stack Kotlin & React | Aplicações Android e Web
 </p>
 
 ---
